@@ -1,2 +1,2 @@
-# Algoritma-rnekler
+# AlgoritmaÖrnekleri
 Basit algoritma örnekleri
